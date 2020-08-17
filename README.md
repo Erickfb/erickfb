@@ -4,4 +4,10 @@
 
 Hello, I'm Erick, Brazilian Systems Analyst 🖥️, passionate about technology and games 🎮. I have been working with systems development for about 9 years, precisely with native mobile development 📲, I also work with web backend systems 👨🏼‍💻.
 
+👨🏻‍💻 Currently working on:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width="50">
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erickfb&show_icons=true&theme=dark)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
