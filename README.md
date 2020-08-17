@@ -7,6 +7,9 @@ Hello, I'm Erick, Brazilian Systems Analyst 🖥️, passionate about technology
 👨🏻‍💻 Currently working on:
 
 <a href="https://kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width="50"></a>
+<a href="https://www.android.com/intl/pt-BR_br/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" width="50"></a>
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019"><img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" width="50"></a>
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erickfb&show_icons=true&theme=dark)
 </br>
