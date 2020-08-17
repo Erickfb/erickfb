@@ -6,7 +6,7 @@ Hello, I'm Erick, Brazilian Systems Analyst 🖥️, passionate about technology
 
 👨🏻‍💻 Currently working on:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width="50">
+<a href="https://kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width="50"></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erickfb&show_icons=true&theme=dark)
 </br>
