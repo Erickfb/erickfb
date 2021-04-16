@@ -8,17 +8,17 @@ Hello, I'm Erick, Brazilian Systems Analyst 🖥️, passionate about technology
 
 <a href="https://kotlinlang.org/"><img src="https://img.icons8.com/color/50/000000/kotlin.png" width="50"></a>
 &nbsp;
-<a href="https://www.android.com/intl/pt-BR_br/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" width="50"></a>
+<a href="https://www.android.com/intl/pt-BR_br/"><img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="50"></a>
 &nbsp;
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019"><img src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png" width="50"></a>
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="50"></a>
 &nbsp;
-<a href="https://developer.apple.com/xcode/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" width="50"></a>
+<a href="https://developer.apple.com/xcode/"><img src="https://img.icons8.com/color/48/000000/xcode.png" width="50"></a>
 &nbsp;
-<a href="https://developer.apple.com/swift/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Swift_logo_with_text.svg/1280px-Swift_logo_with_text.svg.png" height="50"></a>
+<a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/fluent/48/000000/swift.png" height="50"></a>
 &nbsp;
-<a href="https://www.java.com/pt_BR/"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50" height="50"></a>
+<a href="https://www.java.com/pt_BR/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50" height="50"></a>
 &nbsp;
-<a href="https://dotnet.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="50" height="50"></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" height="50"></a>
 &nbsp;
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erickfb&show_icons=true&theme=dark)
