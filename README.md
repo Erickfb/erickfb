@@ -10,15 +10,17 @@ Hello, I'm Erick, Brazilian Systems Analyst 🖥️, passionate about technology
 &nbsp;
 <a href="https://www.android.com/intl/pt-BR_br/"><img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="50"></a>
 &nbsp;
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="50" height="50"></a>
+&nbsp;
+<a href="https://www.java.com/pt_BR/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50" height="50"></a>
+&nbsp;
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="50"></a>
+&nbsp;
+<a href="https://dotnet.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" height="50"></a>
 &nbsp;
 <a href="https://developer.apple.com/xcode/"><img src="https://img.icons8.com/color/48/000000/xcode.png" width="50"></a>
 &nbsp;
 <a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/fluent/48/000000/swift.png" height="50"></a>
-&nbsp;
-<a href="https://www.java.com/pt_BR/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50" height="50"></a>
-&nbsp;
-<a href="https://dotnet.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" height="50"></a>
 &nbsp;
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erickfb&show_icons=true&theme=dark)
