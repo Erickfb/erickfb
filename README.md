@@ -6,7 +6,7 @@ Hello, I'm Erick, Brazilian Systems Analyst 🖥️, passionate about technology
 
 👨🏻‍💻 Currently working on:
 
-<a href="https://kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width="50"></a>
+<a href="https://kotlinlang.org/"><img src="https://img.icons8.com/color/50/000000/kotlin.png" width="50"></a>
 &nbsp;
 <a href="https://www.android.com/intl/pt-BR_br/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" width="50"></a>
 &nbsp;
