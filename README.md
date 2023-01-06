@@ -23,6 +23,6 @@ Hello, I'm Erick, Brazilian Systems Analyst 🖥️, passionate about technology
 <a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/fluent/48/000000/swift.png" height="50"></a>
 &nbsp;
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erickfb&show_icons=true&theme=dark&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Erickfb&show_icons=true&theme=dark&count_private=true)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickfb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
