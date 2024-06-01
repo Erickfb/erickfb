@@ -7,28 +7,40 @@ Hello, I'm Erick, a Brazilian Systems Analyst 🧑‍💻 passionate about techn
 ## 🚀 Skills & Technologies
 
 ### iOS Development
-- ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-- ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
-- ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-- UIKit, XIB, ViewCode, Coordinator
-- MVVM, MVC, MVVM-C, VIPER
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CoreData-1575F9?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+<p>
+  UIKit, XIB, ViewCode, Coordinator, MVVM, MVC, MVVM-C, VIPER
+</p>
 
 ### Programming Languages
-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ### Frameworks & Libraries
-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- ![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
-- ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+</p>
 
 ### Tools & Platforms
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
 
 ### Best Practices
 - TDD (Test-Driven Development)
@@ -56,8 +68,14 @@ Hello, I'm Erick, a Brazilian Systems Analyst 🧑‍💻 passionate about techn
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20Fernandes%20Batista-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erickfb/)
-[![W3INFO](https://img.shields.io/badge/W3INFO-Website-blue?style=for-the-badge&logo=google-chrome)](http://w3info.com.br)
+<p>
+  <a href="https://www.linkedin.com/in/erickfb/">
+    <img src="https://img.shields.io/badge/LinkedIn-Erick%20Fernandes%20Batista-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://w3info.com.br">
+    <img src="https://img.shields.io/badge/W3INFO-Website-blue?style=for-the-badge&logo=google-chrome"/>
+  </a>
+</p>
 
 ## ✨ Fun Facts
 
