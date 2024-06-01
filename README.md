@@ -30,8 +30,8 @@ I am currently working on and have experience with:
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/ErickFernandesB)
-- [W3INFO](https://w3info.com.br)
+- [LinkedIn](https://www.linkedin.com/in/erickfb)
+- [W3INFO](https://w3info.com)
 
 Feel free to reach out for collaboration or just a friendly chat!
 
