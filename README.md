@@ -72,7 +72,7 @@ Hello, I'm Erick, a Brazilian Systems Analyst 🧑‍💻 passionate about techn
   <a href="https://www.linkedin.com/in/erickfb/">
     <img src="https://img.shields.io/badge/LinkedIn-Erick%20Fernandes%20Batista-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://w3info.com.br">
+  <a href="http://w3info.com.br">
     <img src="https://img.shields.io/badge/W3INFO-Website-blue?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
