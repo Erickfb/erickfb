@@ -38,7 +38,7 @@ Hello, I'm Erick, a Brazilian Systems Analyst 🧑‍💻 passionate about techn
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20Fernandes%20Batista-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erickfb/)
-[![W3INFO](https://img.shields.io/badge/W3INFO-Website-blue?style=for-the-badge&logo=google-chrome)](http://w3info.com)
+[![W3INFO](https://img.shields.io/badge/W3INFO-Website-blue?style=for-the-badge&logo=google-chrome)](http://w3info.com.br)
 
 ## 📚 Latest Projects
 
