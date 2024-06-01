@@ -26,7 +26,7 @@ I am currently working on and have experience with:
 ## 🏆 Achievements
 
 - ![Achievements](https://img.shields.io/badge/Achievement-3-blue)
-- ![Achievements](https://img.shields.io/badge/Achievement-1-yellow)
+- ![Achievements](http://img.shields.io/badge/Achievement-1-yellow)
 
 ## 📫 How to reach me
 
