@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Erickfb&color=blueviolet)
 
-Hello, I'm Erick, a Brazilian Systems Analyst 🧑‍💻 passionate about technology and games 🎮. I have been working with systems development for about 9 years, focusing on native mobile development 📱. I am an iOS development specialist, with extensive experience in Swift and Objective-C. I also work with web backend systems 👨‍💻.
+Hello, I'm Erick, a Brazilian Systems Analyst 🧑‍💻 passionate about technology and games 🎮. I have been working with systems development for about 14 years, focusing on native mobile development 📱. I am an iOS development specialist, with extensive experience in Swift and Objective-C. I also work with web backend systems 👨‍💻.
 
 ## 🚀 Skills & Technologies
 
