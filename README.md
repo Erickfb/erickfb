@@ -1,87 +1,94 @@
-# Hi there 👋, I'm Erick 🖥️ -> 📱
+<h1 align="center">Erick Fernandes Batista</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Erickfb&color=blueviolet)
+<p align="center">
+  <strong>Senior iOS Software Engineer</strong><br/>
+  Building native iOS products that are scalable, testable, and ready to evolve.
+</p>
 
-Hello, I'm Erick, a Brazilian Systems Analyst 🧑‍💻 passionate about technology and games 🎮. I have been working with systems development for about 14 years, focusing on native mobile development 📱. I am an iOS development specialist, with extensive experience in Swift and Objective-C. I also work with web backend systems 👨‍💻.
+<p align="center">
+  <a href="https://www.linkedin.com/in/erickfb/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://i4nity.com">
+    <img src="https://img.shields.io/badge/Website-i4nity.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Native%20iOS-111827?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strength-Architecture%20%26%20Quality-0F766E?style=for-the-badge"/>
+</p>
 
-## 🚀 Skills & Technologies
+## About Me
 
-### iOS Development
+I am a software engineer with 10+ years of experience in software development, with a strong specialization in native iOS. I work on products end to end, from technical discovery and architecture to implementation, testing, release, and long-term evolution.
+
+My focus is not only shipping features, but building iOS codebases that stay clear, maintainable, and scalable over time. I bring a product mindset, strong engineering discipline, and close collaboration with design, backend, and QA.
+
+## What I Bring
+
+- End-to-end native iOS development with ownership across discovery, delivery, and continuous improvement.
+- Architecture decisions that support modularization, testability, scalability, and long-term maintainability.
+- Quality-first engineering with TDD, unit tests, snapshot tests, code review, and CI/CD.
+- Strong collaboration in cross-functional environments, helping turn product requirements into reliable user experiences.
+
+## Core Expertise
+
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CoreData-1575F9?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
-<p>
-  UIKit, XIB, ViewCode, Coordinator, MVVM, MVC, MVVM-C, VIPER
-</p>
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Combine-1F2937?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TDD-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+**iOS development**  
+Swift, SwiftUI, UIKit, Combine, Objective-C, ViewCode, XIB, Coordinator
+
+**Architecture**  
+MVVM, MVC, MVVM-C, Clean Architecture, SOLID, modularization, and design systems
+
+**Quality and delivery**  
+TDD, unit tests, snapshot tests, code review, code standards, CI/CD, Git Flow, and observability
+
+**Integration and tooling**  
+REST APIs, GraphQL, Swift Package Manager, CocoaPods, Xcode
+
+**Additional engineering background**  
+Kotlin, Java, C#, .NET, Spring Boot, SQL Server, backend systems, and web applications
+
+## Engineering Principles
+
+- Build for evolution, not only for the next release.
+- Keep architecture practical, explicit, and easy for teams to work with.
+- Treat testing and CI as delivery enablers, not as ceremony.
+- Balance product speed with long-term codebase health.
+
+## Current Focus
+
+- SwiftUI and UIKit interoperability in production-grade applications.
+- Feature modularization and scalable navigation patterns.
+- Test strategies that improve release confidence and reduce regressions.
+- Performance, observability, and maintainability in native iOS products.
+
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erickfb&theme=tokyonight" height="180" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erickfb&theme=tokyonight" height="180" alt="Most Used Languages"/>
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</p>
-
-### Best Practices
-- TDD (Test-Driven Development)
-- Clean Architecture (MVC, MVVM, MVVM-C, MVP, VIPER)
-- Continuous Delivery (CD)
-- Continuous Integration (CI)
-- Git Flow
-- Code Review
-- Code Standards
-- Design Patterns
-- New Relic Monitoring
-
-## 📈 GitHub Stats
-
-![Erick Fernandes Batista's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erickfb&show_icons=true&theme=radical)
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickfb&layout=compact&theme=radical)
-
-## 🏆 Achievements
-
-- ![Achievements](https://img.shields.io/badge/Achievement-3-blue)
-- ![Achievements](https://img.shields.io/badge/Achievement-1-yellow)
-
-## 🌐 Connect with Me
+## Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/erickfb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Erick%20Fernandes%20Batista-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Erick%20Fernandes%20Batista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="http://i4nity.com">
-    <img src="https://img.shields.io/badge/I4nity-Website-blue?style=for-the-badge&logo=google-chrome"/>
+  <a href="https://i4nity.com">
+    <img src="https://img.shields.io/badge/Website-i4nity.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
-## ✨ Fun Facts
-
-- I love playing video games 🎮 and exploring new technologies 🛠️.
-- Big fan of coffee ☕ and Brazilian cuisine 🍲.
-
----
-
-⭐️ From [Erickfb](https://github.com/Erickfb)
+<p align="center">
+  Open to conversations about iOS engineering, architecture, and product-minded mobile development.
+</p>
