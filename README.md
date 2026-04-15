@@ -90,5 +90,9 @@ Kotlin, Java, C#, .NET, Spring Boot, SQL Server, backend systems, and web applic
 </p>
 
 <p align="center">
+  Also experienced with Kotlin, Java, C#, .NET, Spring Boot, SQL Server, Android, and web/backend systems.
+</p>
+
+<p align="center">
   Open to conversations about iOS engineering, architecture, and product-minded mobile development.
 </p>
