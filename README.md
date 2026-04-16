@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Erickfb&color=blueviolet)
 <h1 align="center">Erick Fernandes Batista</h1>
 
 <p align="center">
@@ -97,3 +96,5 @@ Kotlin, Java, C#, .NET, Spring Boot, SQL Server, backend systems, and web applic
 <p align="center">
   Open to conversations about iOS engineering, architecture, and product-minded mobile development.
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Erickfb&color=blueviolet)
