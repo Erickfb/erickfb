@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Erickfb&color=blueviolet)
 <h1 align="center">Erick Fernandes Batista</h1>
 
 <p align="center">
